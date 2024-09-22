@@ -22,7 +22,8 @@ int main()
         if (b<c && b<a)
         {printf("\n%d<%d<%d",b,a,c);}
     }
-    else if(a=b=c){printf("all the numbers are same");}
+    else if(a=b=c)
+{printf("all the numbers are same");}
 
 return 0;
 }
